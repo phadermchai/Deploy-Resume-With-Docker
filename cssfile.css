@@ -1,0 +1,22 @@
+body{
+	margin: 30px;
+	color:#4c4a46 ;	
+	background-color: #cceeff;
+}
+
+h1,h3{
+	text-align:center;
+	line-height: 10pt;
+}
+
+p{
+	font-size:24px;
+	color:#ffc700;
+	margin-left: 300px;
+	font-weight: bold; 
+	text-decoration: underline;
+}
+
+li{
+	margin-left: 300px;
+}
