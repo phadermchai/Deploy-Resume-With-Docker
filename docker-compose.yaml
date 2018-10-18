@@ -1,6 +1,6 @@
 version: '3.5'
 services:
-  myapp:
+  public:
     image: fridaynaynay/resume
     ports:
       - "8023:8000"
